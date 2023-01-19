@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class Calc {
 	
-		
 
 	public static void main(String args []) {
 		int checkout;
@@ -12,6 +11,7 @@ public class Calc {
 		
 		System.out.println("PLEASE ENTER YOUR FIRST NUMBER");
 		String num1 = obj.nextLine();
+		
 		
 		System.out.println("PLEASE ENTER YOUR SECOND NUMBER");
 		String num2 = obj.nextLine();
