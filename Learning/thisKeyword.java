@@ -17,7 +17,7 @@ public class thisKeyword {
 	}
 	
 	public static void main(String[] args) {
-		thisKeyword myObj = new thisKeyword(5);
+		thisKeyword myObj = new thisKeyword(7);
 		System.out.println("Value of x = "+myObj.x);
 		
 	}
