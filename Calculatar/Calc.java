@@ -27,7 +27,7 @@ public class Calc {
 		}else {
 			checkout=0;
 			 System.out.println("You exited from the programm,"
-			 		+ "\nif you want to continue run again the programm");
+			 		+ "\n if you want to continue run again the programm");
 		}
 		
 }while(1==checkout);
