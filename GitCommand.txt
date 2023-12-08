@@ -141,7 +141,7 @@ EX:    git remote add origin "https://github.com/AssadullahKeyanosh/NodeJS.git"
 17- git push
 
 Usage: git push [variable name] master 
-EX: git push origin main 
+EX:    git push origin main 
 // This command sends the committed changes of master branch to your remote repository.
 
 Usage: git push [variable name] [branch]  
