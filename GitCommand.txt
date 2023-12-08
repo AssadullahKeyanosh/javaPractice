@@ -133,13 +133,15 @@ Usage: git merge [branch name]
 
 16- git remote
 
-Usage: git remote add [variable name] [Remote Server Link]  
+Usage: git remote add [variable name] [Remote Server Link]
+      EX: git remote add origin "https://github.com/AssadullahKeyanosh/NodeJS.git"  
 // This command is used to connect your local repository to the remote server.
 =======================================================================================================================================
 
 17- git push
 
-Usage: git push [variable name] master  
+Usage: git push [variable name] master 
+     EX: git push origin main 
 // This command sends the committed changes of master branch to your remote repository.
 
 Usage: git push [variable name] [branch]  
@@ -172,6 +174,27 @@ Usage: git stash list
 Usage: git stash drop  
 // This command discards the most recently stashed changeset.
 =======================================================================================================================================
+
+20- git mv old_file_name.js new_file_name.js
+
+//Usage: by this command we can rename files
+
+
+
+21- mv old_directory new_directory
+
+// Usage: we can rename the old_directory to new_directory
+
+
+22- mv FirsDirectory/  Distenation Directory/ 
+//Usage: this command move one directory to another directory
+//Note: if folder second doesn't exist already it will rename FirstDir to SecondDir
+Ex: mv FirstDir/ secondDir/
+
+
+
+
+
 
 
 
