@@ -188,6 +188,10 @@ Usage: git stash drop
 //Note: if folder second doesn't exist already it will rename FirstDir to SecondDir
 Ex: mv FirstDir/ secondDir/
 
+23- rm -r secondDir/
+//Usage: to remove a Directory
+
+
 
 
 
