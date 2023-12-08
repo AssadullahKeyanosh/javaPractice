@@ -133,13 +133,15 @@ Usage: git merge [branch name]
 
 16- git remote
 
-Usage: git remote add [variable name] [Remote Server Link]  
+Usage: git remote add [variable name] [Remote Server Link]
+EX:    git remote add origin "https://github.com/AssadullahKeyanosh/NodeJS.git"  
 // This command is used to connect your local repository to the remote server.
 =======================================================================================================================================
 
 17- git push
 
-Usage: git push [variable name] master  
+Usage: git push [variable name] master 
+EX: git push origin main 
 // This command sends the committed changes of master branch to your remote repository.
 
 Usage: git push [variable name] [branch]  
