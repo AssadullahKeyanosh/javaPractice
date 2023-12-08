@@ -176,13 +176,10 @@ Usage: git stash drop
 =======================================================================================================================================
 
 20- git mv old_file_name.js new_file_name.js
-
 //Usage: by this command we can rename files
 
 
-
 21- mv old_directory new_directory
-
 // Usage: we can rename the old_directory to new_directory
 
 
