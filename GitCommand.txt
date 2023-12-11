@@ -174,22 +174,36 @@ Usage: git stash list
 Usage: git stash drop  
 // This command discards the most recently stashed changeset.
 =======================================================================================================================================
+20- touch FileName.Extention
+// Usage: this command create a file
+// Ex: touch Stream.js
 
-20- git mv old_file_name.js new_file_name.js
+21- echo .> FileName.Extention
+// Usage: this command also create a file 
+// Ex: echo .>text.txt
 
+22- ApplicationName FileName.Extention
+// Usage: this command open a file by VsCode
+// Ex: code text.txt
+// Ex: Notepad text.txt
+
+
+23- git mv old_file_name.js new_file_name.js
 //Usage: by this command we can rename files
 
 
-
-21- mv old_directory new_directory
-
+24- mv old_directory new_directory
 // Usage: we can rename the old_directory to new_directory
 
 
-22- mv FirsDirectory/  Distenation Directory/ 
+25- mv FirsDirectory/  Distenation Directory/ 
 //Usage: this command move one directory to another directory
 //Note: if folder second doesn't exist already it will rename FirstDir to SecondDir
 Ex: mv FirstDir/ secondDir/
+
+26- rm -r secondDir/
+//Usage: to remove a Directory
+
 
 
 
